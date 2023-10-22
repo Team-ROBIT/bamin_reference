@@ -4,6 +4,7 @@
 
 최종: 한국로봇산업진흥원장상 (2등)
 
+주행영상: https://www.youtube.com/watch?v=T96JpSG9XQ8
 
 ## 팀원
 - 박병규
